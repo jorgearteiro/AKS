@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'AKS - Azure Kubernetes Services Blog'
+theme = 'ananke'
